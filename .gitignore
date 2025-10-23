@@ -1,6 +1,7 @@
 # Fichiers binaires
 bin/
 obj/
+.vs/
 
 # User-specific files
 *.user
@@ -28,3 +29,5 @@ secrets.json
 
 # Publish output
 /out/
+
+.env.local
